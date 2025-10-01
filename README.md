@@ -14,9 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Marceline784&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marceline784&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Marceline784&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
